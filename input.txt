@@ -1,0 +1,11 @@
+SONGS
+Song, Artist, YouTube Views, Spotify Streams, Contains a drop (true or false) [NOT ACTUAL DATA FOR CONTAINS DROP]
+Loner, CNBlue, 469685, 8502882, true
+Can't Stop, CNBlue, 20332115, 4530382, false
+Love, CNBlue, 11568079, 3391752, true
+Love Girl, CNBlue, 21560438, 3266529, false
+I'm Sorry, CNBlue, 22903848, 2292362, true
+Cinderella, CNBlue, 9741328, 3497335, false
+You're So Fine, CNBlue, 7563139, 3917566, true
+Intuition, CNBlue, 683245, 1252354, false
+Between Us, CNBlue, 3320302, 3122467, true
