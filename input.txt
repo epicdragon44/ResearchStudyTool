@@ -1,11 +1,79 @@
 SONGS
-Song, Artist, YouTube Views, Spotify Streams, Contains a drop (true or false) [NOT ACTUAL DATA FOR CONTAINS DROP]
-Loner, CNBlue, 469685, 8502882, true
-Can't Stop, CNBlue, 20332115, 4530382, false
-Love, CNBlue, 11568079, 3391752, true
-Love Girl, CNBlue, 21560438, 3266529, false
-I'm Sorry, CNBlue, 22903848, 2292362, true
-Cinderella, CNBlue, 9741328, 3497335, false
-You're So Fine, CNBlue, 7563139, 3917566, true
-Intuition, CNBlue, 683245, 1252354, false
-Between Us, CNBlue, 3320302, 3122467, true
+Song, Artist, YouTube Views, Spotify Streams, Contains a drop (true or false)
+Sorry, The Rose, 17388012, 25521659, false
+Like We Used To, The Rose, 4234355, 8365265, true
+BABY, The Rose, 10952082, 10905944, true
+ILY, The Rose, 1451276, 14600069, false
+RED, The Rose, 2921709, 11149670, false
+Starlight, N.flying, 570132, 459853, true
+Oh really, N.flying, 11001161, 1738983, false
+Good Bam, N.flying, 2142665, 2631225, false
+Leave It, N.flying, 2332638, 1521856, true
+Spring Memories, N.flying, 692680, 1201285, false
+Rooftop, N.flying, 29173817, 11072701, false
+Like A Flower, N.flying, 1161806, 1790618, false
+How r u today, N.flying, 2919765, 2366859, true
+Hot Potato, N.flying, 5533678, 3879016, false
+Lonely, N.flying, 810346, 476566, false
+Awesome, N.flying, 2318296, 1311176, false
+The Real, N.flying, 4599631, 3170952, true
+Chase Me, Dreamcatcher, 12438351, 7297231, false
+GOOD NIGHT, Dreamcatcher, 12389482, 6872548, true
+Fly high, Dreamcatcher, 7640283, 4265294, false
+YOU AND I, Dreamcatcher, 13749790, 13345043, true
+What, Dreamcatcher, 7558307, 4900447, true
+PIRI, Dreamcatcher, 16634630, 16888210, true
+Déjà vu, Dreamcatcher, 17741795, 13009620, true
+Scream, Dreamcatcher, 24641243, 17166332, true
+SAHARA, Dreamcatcher, 2926403, 2635628, true
+R.o.S.E BLUE, Dreamcatcher, 2756788, 1035173, false
+BOCA, Dreamcatcher, 27045196, 9086425, true
+Congratulations, Day6, 35604675, 9796962, true
+Letting Go, Day6, 19721872, 11109990, true
+I Wait, Day6, 26636432, 14414179, true
+You Were Beautiful, Day6, 38246805, 34654696, false
+How Can I Say, Day6, 14113924, 7701705, true
+I’m Serious, Day6, 11538593, 5547885, false
+DANCE DANCE, Day6, 9091436, 7533126, true
+I Smile, Day6, 13868274, 11427332, false
+Hi Hello, Day6, 7852613, 6369100, false
+What Can I Do, Day6, 10646954, 6344190, false
+I Loved You, Day6, 25150694, 20039445, false
+When you love someone, Day6, 9526874, 11709726, false
+All Alone, Day6, 4379014, 4844040, false
+I like you, Day6, 11324234, 11365112, false
+Shoot Me, Day6, 39525111, 42652179, true
+Beautiful Feeling, Day6, 3808663, 8956326,  true
+Days gone by, Day6, 11639406, 15963031, false
+Time of Our Life, Day6, 10066042, 13119983, true
+Sweet Chaos, Day6, 11662306, 17817815, true
+Zombie, Day6, 13691656, 18414756, false
+Reminisce about All, Onewe, 199999, 851611, true
+Ring on my Ears, Onewe, 468806, 774679, false
+0&4, Onewe, 315301, 543135, false
+Regulus, Onewe, 296115, 235066, true
+End of Spring, Onewe, 617510, 1314579, true
+Q, Onewe, 1315687, 2454043, false
+LAST SONG, Onewe, 999536, 1047070, true
+Loner, CNBlue, 477994, 8755980, false
+Love, CNBlue, 11636527, 3485370, false
+Intuition, CNBlue, 687525, 1290142, false
+LOVE GIRL, CNBlue, 21619326, 3355158, false
+Still in Love, CNBlue, 153600, 830446, false
+Hey You, CNBlue, 16032246, 1294553, false
+I’m Sorry, CNBlue, 22996189, 2351247, true
+Can’t Stop, CNBlue, 20421873, 4652904, false
+Cinderella, CNBlue, 9770520, 3547678, true
+YOU’RE SO FINE, CNBlue, 7614605, 4015448, false
+Then Now and Forever, CNBlue, 5768150, 1396368, true
+Take Me Now, FTISLAND, 4133290, 1720226, true
+PRAY, FTISLAND, 4504232, 1427734, true
+MADLY, FTISLAND, 5854520, 603124, false
+MEMORY, FTISLAND, 4267119, 402561, true
+I Wish, FTISLAND, 1127207, 1911058, true
+Severely, FTISLAND, 22432689, 3810192, true
+Like birds, FTISLAND, 297738, 335249, false
+Hello Hello, FTISLAND, 12633831, 1734882, false
+Love Love Love, FTISLAND, 1245417, 1096058, false
+I hope, FTISLAND, 10858750, 2186006, false
+Wind, FTISLAND, 3031987, 3029370, true

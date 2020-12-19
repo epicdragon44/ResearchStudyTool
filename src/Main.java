@@ -77,8 +77,15 @@ public class Main {
         }
         double var2 = droptotal4 / (n2-1);
 
+        System.out.println("n1: " + n1);
+        System.out.println("sx1: " + Math.sqrt(var1));
+        System.out.println("mean1: " + mean1);
+        System.out.println("n2: " + n2);
+        System.out.println("sx2: " + Math.sqrt(var2));
+        System.out.println("mean2: " + mean2);
+
         double T = (mean1-mean2) / ((((n1-1)*(var1*var1)+(n2-1)*(var2*var2))/(n1+n2-2))*Math.sqrt(1/n1 + 1/n2));
-        double df = n1 + n2 - 2;
+        double df = Math.min(n1-1, n2-1);
 
         System.out.println("T-score T: " + T);
         System.out.println("Degrees of Freedom df: " + df);
